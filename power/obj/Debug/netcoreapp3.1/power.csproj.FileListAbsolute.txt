@@ -1,0 +1,14 @@
+C:\Users\asgaryas\Desktop\project4\power\power\obj\Debug\netcoreapp3.1\power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgaryas\Desktop\project4\power\power\obj\Debug\netcoreapp3.1\power.AssemblyInfoInputs.cache
+C:\Users\asgaryas\Desktop\project4\power\power\obj\Debug\netcoreapp3.1\power.AssemblyInfo.cs
+C:\Users\asgaryas\Desktop\project4\power\power\obj\Debug\netcoreapp3.1\power.csproj.CoreCompileInputs.cache
+C:\Users\asgaryas\Desktop\project4\power\power\bin\Debug\netcoreapp3.1\power.exe
+C:\Users\asgaryas\Desktop\project4\power\power\bin\Debug\netcoreapp3.1\power.deps.json
+C:\Users\asgaryas\Desktop\project4\power\power\bin\Debug\netcoreapp3.1\power.runtimeconfig.json
+C:\Users\asgaryas\Desktop\project4\power\power\bin\Debug\netcoreapp3.1\power.runtimeconfig.dev.json
+C:\Users\asgaryas\Desktop\project4\power\power\bin\Debug\netcoreapp3.1\power.dll
+C:\Users\asgaryas\Desktop\project4\power\power\bin\Debug\netcoreapp3.1\power.pdb
+C:\Users\asgaryas\Desktop\project4\power\power\obj\Debug\netcoreapp3.1\power.dll
+C:\Users\asgaryas\Desktop\project4\power\power\obj\Debug\netcoreapp3.1\power.pdb
+C:\Users\asgaryas\Desktop\project4\power\power\obj\Debug\netcoreapp3.1\power.genruntimeconfig.cache
+C:\Users\asgaryas\Desktop\project4\power\power\obj\Debug\netcoreapp3.1\power.csproj.AssemblyReference.cache
